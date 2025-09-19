@@ -87,13 +87,21 @@ Some information you should know..
 # Installation steps:
 
 __1.Download the ROM__
+
 __2.Ensure you have up-to-date TWRP (3.4.0.0) Or Ofox.__
+
 __3.Copy the files you downloaded to PC or OTG or whatever__
+
 __4.Reboot your phone to TWRP (Latest recovery for your devices)__
+
 __5.Make sure OEM unlock is unlocked__
+
 __6.Flash create-vendor if you haven't already you also can use @Astrako 's repartition script (You need 4GB system to use all bloatware)__
+
 __7.Wipe data, dalvik, and cache__
+
 __8.Flash ROM__
+
 __9.Setup your ROM and Enjoy Quack!!__
 
 Download Link : [Click Here](https://drive.google.com/file/d/1LWqzON2DVkIwO0hveoVi30FDD4cNTbX5/view?usp=sharing)
